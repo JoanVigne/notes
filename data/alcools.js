@@ -1,0 +1,42 @@
+export const alcools = [
+  {
+    testé: true,
+    type: "vin rouge",
+    appellation: "Chinon",
+    cépage: "",
+    region: "France - Chinon",
+    commentaires: "Lyon",
+  },
+  {
+    testé: true,
+    type: "vin rouge",
+    appellation: "Chaminé",
+    cépage: "",
+    region: "Portugal - Alentejo",
+    commentaires: "",
+  },
+  {
+    testé: true,
+    type: "vin blanc",
+    appellation: "Juransson",
+    cépage: "",
+    region: "",
+    commentaires: "",
+  },
+  {
+    testé: false,
+    type: "vin rosé",
+    appellation: "Gris blanc",
+    cépage: "",
+    region: "Chinon",
+    commentaires: "",
+  },
+  {
+    testé: false,
+    type: "vin verde",
+    appellation: "Alberoni Almerino",
+    cépage: "",
+    region: "Chinon",
+    commentaires: " ",
+  },
+];
